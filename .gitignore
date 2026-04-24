@@ -1,0 +1,1 @@
+Nothing needs to be added to .gitignore since only HTML files (index.html and anna.html) were changed, which are source code files that should not be ignored.
